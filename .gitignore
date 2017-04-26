@@ -32,6 +32,7 @@ spec/dummy/db/*.sqlite3
 spec/dummy/db/*.sqlite3-journal
 spec/dummy/tmp/
 
+plantuml/
 Gemfile.lock
 Gemfile.local
 .rspec
